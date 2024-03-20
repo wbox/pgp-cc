@@ -1,2 +1,3 @@
-# pgp-cc
-PosGraduate Program - Cloud Computing articles, tutorials and etc
+# Cloud Computing
+
+This repo was created in order to implement the activities from the program using IaaC. The articles, tutorials and any content here doesn't not represent any official materials from any program of any univesity, college, and or education institution. They are also not the only way to adopt and/or implement such technologies. The approach is exploratory with the intent to improve my own knowledge and get hands on practice in different cloud technologies, programming, languages, etc.
