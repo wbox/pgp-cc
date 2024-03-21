@@ -48,7 +48,7 @@ cd pgp-cc/terraform/ec2/tio1
 
 Step 4: Create key pair using aws cli
 
-Currently terraform doesn't not support creation of key pair so we will need to use aws cli for this task.
+Currently terraform doesn't not support creation of key pair so we will need to use aws cli for this task. Make sure you save the output from this command since it will be the key to use to connect to your new instance via ssh.
 
 ```bash
 aws ec2 create-key-pair --key-name pgpcc-key1
